@@ -1,0 +1,4 @@
+def sum_items(d):
+	return sum(d.values()) 
+d={'a':1,'b':2,'c':3}
+print(sum_items(d))	
